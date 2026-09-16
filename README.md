@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：识别质量
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 058 篇 - 百家乐Ai预测分析工具：使用识别置信分数前先理解其定义](https://github.com/TGmszrcsz/baccarat-ai-058) ｜ [下一篇：第 060 篇 - 百家乐Ai预测分析工具：用错误分类找到识别流程的改进方向](https://github.com/TGmszrcsz/baccarat-ai-060)
+
+<!-- article-chain:end -->
+
 软件更新调整了字体和布局，旧识别方案尚未验证。本篇围绕“界面更新后如何做一次小范围回归检查”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
